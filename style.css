@@ -67,6 +67,7 @@ nav ul li a{
     display: inline-block;
     padding: 1em;
     color: var(--header-logo-text);
+    transition: 300ms;
 }
 
 
