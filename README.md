@@ -1,6 +1,6 @@
 # LANDING PAGE
 
-A Project from [The Odin Projects](https://www.theodinproject.com/lessons/foundations-landing-page).
+Project [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page) from [The Odin Projects](https://www.theodinproject.com).
 
 ## Learning Outcomes Summary
 
